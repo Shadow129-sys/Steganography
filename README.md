@@ -8,10 +8,14 @@ This is just basic encryption for hiding text messages inside simple images but 
 
 ## How to get started
 * Clone the repo with `git clone` in git bash
-* move to "stegnography" folder
-* install all the required lib using `pip` from `requirements.txt`
 ```gitbash
 git clone https://github.com/Shadow129-sys/steganography.git
+```
+* move to "stegnography" folder
+```gitbash
 cd steganography
+```
+* install all the required lib using `pip` from `requirements.txt`
+```gitbash
 pip install -r requirements.txt
 ```
