@@ -5,3 +5,10 @@ This is just basic encryption for hiding text messages inside simple images but 
 * As of now this algorithm can only take 250 words or less than that
 * It can't encrypt very large word in the encrypted image
 * The program is not actually changing the image's metadata so if someone wish to send the encrypted image then send it as a document file, so that the file can retain its encrypted bits
+
+## How to get started
+```gitbash
+git clone https://github.com/Shadow129-sys/steganography.git
+cd steganography
+python install -r requirements.txt
+```
