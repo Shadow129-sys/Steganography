@@ -26,7 +26,17 @@ e - encryption
 d - decryption
 Choice : e
 processing started.....
-coverfile : mountain.png
+coverfile : photo.jpg
 Encrypted file created...
 process ended...
+```
+this will be printed if the program can encrypt the file or else it will show an error, in decrypt mode an `output.txt` file will be created with the decrypted text.
+```terminal
+$ python -u main.py
+e - encryption
+d - decryption
+Choice : d
+processing started.....
+encrypted file : encrypted.png
+Decrypted Text : bla bla bla
 ```
