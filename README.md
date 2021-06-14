@@ -46,3 +46,4 @@ Decrypted Text : bla bla bla
 process ended...
 ```
 ## How it works 💡
+We all that that a coloured image has 3 channels in 1 pixel in BGR, we used binary of ascii value in 8 bits to store the value of a whole word, This algorithm store the number of words and number of letters in each word in green channel and the value of each character in red channel in it's binary form.
