@@ -7,7 +7,7 @@ This is just basic encryption for hiding text messages inside simple images but 
 * The program is not actually changing the image's metadata so if someone wish to send the encrypted image then send it as a document file, so that the file can retain its encrypted bits
 
 ## How to get started
-* Clone the repo with git clone with git bash
+* Clone the repo with git clone in git bash
 * move to "stegnography" folder
 * install all the required lib using pip from requirements.txt
 ```gitbash
