@@ -1,4 +1,5 @@
 # Steganography
+Steganography is the technique of hiding secret data within an ordinary, non-secret, file or message in order to avoid detection the secret data is then extracted at its destination.The word steganography is derived from the Greek words steganos (meaning hidden or covered) and the Greek root graph(meaning to write).
 This is just basic encryption for hiding text messages inside simple images but obviously, this algorithm has its own limitations. 
 
 ## Limitations
