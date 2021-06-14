@@ -1,4 +1,4 @@
-# steganography
+# Steganography
 This is just basic encryption for hiding text messages inside simple images but obviously, this algorithm has its own limitations. 
 
 ## Limitations
@@ -9,11 +9,11 @@ This is just basic encryption for hiding text messages inside simple images but 
 ## How to get started
 * Clone the repo with `git clone` in git bash
 ```gitbash
-git clone https://github.com/Shadow129-sys/steganography.git
+git clone https://github.com/Shadow129-sys/Steganography.git
 ```
 * move to "steganography" folder
 ```gitbash
-cd steganography
+cd Steganography
 ```
 * install all the required lib using `pip` from `requirements.txt`
 ```gitbash
