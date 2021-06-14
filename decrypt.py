@@ -2,9 +2,9 @@ import cv2
 
 
 class Decrypt:
-    def __init__(self):
+    def __init__(self, file):
         try:
-            self.image = cv2.imread("encrypted.png", 1)
+            self.image = cv2.imread(file, 1)
             self.b, self.g, self.r = cv2.split(self.image)
         except:
             print("Encrypted file not found!!!")
